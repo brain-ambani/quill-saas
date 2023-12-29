@@ -18,7 +18,7 @@ export default function Home() {
        transition-all hover:border-gray-300 hover:bg-white/50"
         >
           <p className="text-sm font-semibold text-gray-700">
-            Quill is now public!
+            Scriptify is now public!
           </p>
         </div>
         <h1 className="max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl">
