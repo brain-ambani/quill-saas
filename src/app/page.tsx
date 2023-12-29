@@ -26,8 +26,8 @@ export default function Home() {
           seconds
         </h1>
         <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">
-          Quill allow you to have conversations with any PDF document. Simply
-          upload your file and start asking questions right away.
+          Scriptify allow you to have conversations with any PDF document.
+          Simply upload your file and start asking questions right away.
         </p>
 
         <Link
