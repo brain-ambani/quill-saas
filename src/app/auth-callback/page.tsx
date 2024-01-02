@@ -11,7 +11,6 @@ const Page = async () => {
     onSuccess: ({ success }: { success: boolean }) => {
       if (success) {
         //user is synced to db
-        // Redirect to origin or home page
         router.push(origin ? `/${origin}` : "/dashboard");
       }
     },
